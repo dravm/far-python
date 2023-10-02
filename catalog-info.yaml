@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: far-python
+  annotations:
+    github.com/project-slug: dravm/far-python
+spec:
+  type: other
+  lifecycle: unknown
+  owner: andrey
