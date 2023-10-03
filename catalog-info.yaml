@@ -4,6 +4,8 @@ metadata:
   name: far-python
   annotations:
     github.com/project-slug: dravm/far-python
+  tags:
+    - python
 spec:
   type: other
   lifecycle: unknown
